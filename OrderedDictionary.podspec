@@ -33,6 +33,7 @@ Internally, OrderedDictionary uses backing storage composed of a Dictionary for 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
+  s.tvos.deployment_target = '13.0'
 
   s.source_files = 'Sources/**/*'
   
